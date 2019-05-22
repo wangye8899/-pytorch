@@ -17,9 +17,9 @@ ___
 
 * ### pytorch的基本使用
     
-    1. autograd的两个使用案例
-    2. 使用numpy加载数据
-    3. Input PipeLine
-    4. 自定义数据的Input PipeLine
-    5. 预训练模型
-    6. 保存和加载模型
+    * autograd的两个使用案例
+    * 使用numpy加载数据
+    * Input PipeLine
+    * 自定义数据的Input PipeLine
+    * 预训练模型
+    * 保存和加载模型
