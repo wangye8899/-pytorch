@@ -26,4 +26,4 @@ ___
 ___
 ## [02线性回归](http://localhost:8888/notebooks/02%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
 主要讲解了：
-    * ### 如何使用pytorch进行线性回归
+* ### 如何使用pytorch进行线性回归
