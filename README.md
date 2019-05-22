@@ -13,7 +13,7 @@ ___
 ___
 ## 内容安排：
 
-[01.ipynb](https://github.com/wangye8899/Pytorch/blob/master/01.ipynb) 主要讲解了：
+## [01.ipynb](https://github.com/wangye8899/Pytorch/blob/master/01.ipynb) 主要讲解了：
 
 * ### pytorch的基本使用
     
