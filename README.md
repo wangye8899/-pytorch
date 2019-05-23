@@ -27,3 +27,7 @@ ___
 ## [02线性回归](http://localhost:8888/notebooks/02%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
 主要讲解了：
 * ### 如何使用pytorch进行线性回归
+___
+## [03逻辑回归](https://github.com/wangye8899/Pytorch/blob/master/03%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92/03%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92.ipynb)
+主要讲解了：
+* ### 如何使用pytorch进行逻辑回归
